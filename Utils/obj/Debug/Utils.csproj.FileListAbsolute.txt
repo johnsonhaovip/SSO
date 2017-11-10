@@ -11,3 +11,12 @@ G:\Johnson\SSODemoPro\Utils\bin\Debug\ServiceStack.Redis.dll
 G:\Johnson\SSODemoPro\Utils\bin\Debug\ServiceStack.Interfaces.dll
 G:\Johnson\SSODemoPro\Utils\bin\Debug\ServiceStack.Text.dll
 G:\Johnson\SSODemoPro\Utils\bin\Debug\ServiceStack.Common.dll
+G:\Johnson\SSO\Utils\bin\Debug\Utils.dll
+G:\Johnson\SSO\Utils\bin\Debug\Utils.pdb
+G:\Johnson\SSO\Utils\bin\Debug\ServiceStack.Redis.dll
+G:\Johnson\SSO\Utils\bin\Debug\ServiceStack.Interfaces.dll
+G:\Johnson\SSO\Utils\bin\Debug\ServiceStack.Text.dll
+G:\Johnson\SSO\Utils\bin\Debug\ServiceStack.Common.dll
+G:\Johnson\SSO\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+G:\Johnson\SSO\Utils\obj\Debug\Utils.dll
+G:\Johnson\SSO\Utils\obj\Debug\Utils.pdb
