@@ -50,11 +50,22 @@ namespace Utils
             return HttpContext.Current.Cache.Get(key);
         }
 
+        /// <summary>
+        /// 设置
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="key"></param>
+        /// <returns></returns>
         public static T Get<T>(string key)
         {
             object obj = Get(key);
             return obj == null ? default(T) : (T)obj;
         }
+        /// <summary>
+        /// 移除
+        /// </summary>
+        /// <param name="key"></param>
+        /// <returns></returns>
         public static object Remove(string key)
         {
           return  HttpContext.Current.Cache.Remove(key);
