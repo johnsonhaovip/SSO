@@ -72,7 +72,7 @@ namespace Utils.Configuration
             {
                 Host = "127.0.0.1",
                 Port = 6379,
-                Password = "aaaa",
+                Password = "123",
                 Db = 0
             };
             return this.saveConifg(config);
