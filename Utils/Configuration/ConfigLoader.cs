@@ -70,8 +70,10 @@ namespace Utils.Configuration
 
             T model = default(T);
 
-            if (!existsConfigFile) model = this.initConfig();
-            else model = SerializationHelper.Load(typeof(T), this._configFilePath) as T;
+            if (!existsConfigFile)
+                model = this.initConfig();
+            else
+                model = SerializationHelper.Load(typeof(T), this._configFilePath) as T;
 
             _cache[this._cacheHashCode] = model;
 
@@ -98,7 +100,8 @@ namespace Utils.Configuration
         {
             get
             {
-                if (!_cache.ContainsKey(this._cacheHashCode)) return File.Exists(this._configFilePath);
+                if (!_cache.ContainsKey(this._cacheHashCode))
+                    return File.Exists(this._configFilePath);
                 return true;
             }
         }
