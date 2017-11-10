@@ -1,0 +1,128 @@
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\ApplicationInsights.config
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\csc.exe
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\System.Collections.Immutable.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\System.Reflection.Metadata.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\vbc.exe
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\VBCSCompiler.exe
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\roslyn\VBCSCompiler.exe.config
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\b.com.dll.config
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\b.com.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\b.com.pdb
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Antlr3.Runtime.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.AI.Agent.Intercept.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.AI.DependencyCollector.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.AI.Web.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.AI.WindowsServer.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.ApplicationInsights.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.Web.Infrastructure.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Newtonsoft.Json.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.Helpers.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.Mvc.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.Optimization.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.Razor.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.WebPages.Deployment.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.WebPages.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.WebPages.Razor.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\WebGrease.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.AI.DependencyCollector.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.AI.Web.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.AI.WindowsServer.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.ApplicationInsights.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.Helpers.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.Mvc.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.Optimization.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.Razor.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.WebPages.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.WebPages.Deployment.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\System.Web.WebPages.Razor.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Antlr3.Runtime.pdb
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Newtonsoft.Json.xml
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\zh-Hans\System.Web.Helpers.resources.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\zh-Hans\System.Web.Mvc.resources.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\zh-Hans\System.Web.Optimization.resources.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\zh-Hans\System.Web.Razor.resources.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\zh-Hans\System.Web.WebPages.resources.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\obj\Debug\b.com.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\obj\Debug\b.com.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\obj\Debug\b.com.pdb
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Utils.dll
+d:\documents\visual studio 2015\Projects\SSODemoPro\b.com\bin\Utils.pdb
+G:\Johnson\SSODemoPro\b.com\bin\ApplicationInsights.config
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\csc.exe
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\System.Collections.Immutable.dll
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\System.Reflection.Metadata.dll
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\vbc.exe
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\VBCSCompiler.exe
+G:\Johnson\SSODemoPro\b.com\bin\roslyn\VBCSCompiler.exe.config
+G:\Johnson\SSODemoPro\b.com\bin\b.com.dll.config
+G:\Johnson\SSODemoPro\b.com\bin\b.com.dll
+G:\Johnson\SSODemoPro\b.com\bin\b.com.pdb
+G:\Johnson\SSODemoPro\b.com\bin\Antlr3.Runtime.dll
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.AI.DependencyCollector.dll
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.AI.Web.dll
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.AI.WindowsServer.dll
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.ApplicationInsights.dll
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.Web.Infrastructure.dll
+G:\Johnson\SSODemoPro\b.com\bin\Newtonsoft.Json.dll
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.Helpers.dll
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.Mvc.dll
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.Optimization.dll
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.Razor.dll
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.WebPages.Deployment.dll
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.WebPages.dll
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.WebPages.Razor.dll
+G:\Johnson\SSODemoPro\b.com\bin\Utils.dll
+G:\Johnson\SSODemoPro\b.com\bin\WebGrease.dll
+G:\Johnson\SSODemoPro\b.com\bin\Utils.pdb
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.AI.DependencyCollector.xml
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.AI.Web.xml
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.AI.WindowsServer.xml
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.ApplicationInsights.xml
+G:\Johnson\SSODemoPro\b.com\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.Helpers.xml
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.Mvc.xml
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.Optimization.xml
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.Razor.xml
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.WebPages.xml
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.WebPages.Deployment.xml
+G:\Johnson\SSODemoPro\b.com\bin\System.Web.WebPages.Razor.xml
+G:\Johnson\SSODemoPro\b.com\bin\Antlr3.Runtime.pdb
+G:\Johnson\SSODemoPro\b.com\bin\Newtonsoft.Json.xml
+G:\Johnson\SSODemoPro\b.com\bin\zh-Hans\System.Web.Helpers.resources.dll
+G:\Johnson\SSODemoPro\b.com\bin\zh-Hans\System.Web.Mvc.resources.dll
+G:\Johnson\SSODemoPro\b.com\bin\zh-Hans\System.Web.Optimization.resources.dll
+G:\Johnson\SSODemoPro\b.com\bin\zh-Hans\System.Web.Razor.resources.dll
+G:\Johnson\SSODemoPro\b.com\bin\zh-Hans\System.Web.WebPages.resources.dll
+G:\Johnson\SSODemoPro\b.com\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\Johnson\SSODemoPro\b.com\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+G:\Johnson\SSODemoPro\b.com\obj\Debug\b.com.csprojResolveAssemblyReference.cache
+G:\Johnson\SSODemoPro\b.com\obj\Debug\b.com.dll
+G:\Johnson\SSODemoPro\b.com\obj\Debug\b.com.pdb
+G:\Johnson\SSODemoPro\b.com\bin\ServiceStack.Redis.dll
+G:\Johnson\SSODemoPro\b.com\bin\ServiceStack.Interfaces.dll
+G:\Johnson\SSODemoPro\b.com\bin\ServiceStack.Text.dll
+G:\Johnson\SSODemoPro\b.com\bin\ServiceStack.Common.dll
