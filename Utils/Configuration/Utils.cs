@@ -238,8 +238,10 @@ namespace Utils.Configuration
         /// <returns>绝对路径</returns>
         public static string GetMapPath(string strPath)
         {
-            if (String.IsNullOrWhiteSpace(strPath)) return strPath;
-            else if (strPath.ToLower().StartsWith("http://")) return strPath;
+            if (String.IsNullOrWhiteSpace(strPath))
+                return strPath;
+            else if (strPath.ToLower().StartsWith("http://"))
+                return strPath;
 
             if (HttpContext.Current != null && HttpContext.Current.Server != null)
             {
