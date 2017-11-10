@@ -11,8 +11,12 @@ namespace Utils.Configuration
     /// Redis 配置
     /// </summary>
     [Serializable, XmlRoot("redis")]
-    public class RedisDbConfig
+    public class RedisDbConfig : ConfigLoader<RedisDbConfig>
     {
+        #region Ctor
+        public RedisDbConfig(): base(PubConstant.REDIS_CONFIG_PATH) { }
+        #endregion
+
         #region Properties
 
         /// <summary>
@@ -20,7 +24,7 @@ namespace Utils.Configuration
         /// </summary>
         private static string host = "127.0.0.1";
         [XmlElement("host")]
-        public static string Host
+        public  string Host
         {
             get { return host; }
             set { host = value; }
@@ -29,9 +33,9 @@ namespace Utils.Configuration
         /// <summary>
         /// 端口(默认6379)
         /// </summary>
-        private static int port = 6379;
+        private  int port = 6379;
         [XmlElement("port")]
-        public static int Port
+        public  int Port
         {
             get { return port; }
             set { port = value; }
@@ -41,17 +45,37 @@ namespace Utils.Configuration
         /// 
         /// </summary>
         [XmlElement("password")]
-        public static string Password { get; set; }
+        public  string Password { get; set; }
 
         /// <summary>
         /// db编号(默认0, max:16384)
         /// </summary>
-        private static int db = 0;
+        private  int db = 0;
         [XmlElement("db")]
         public int Db
         {
             get { return db; }
             set { db = value; }
+        }
+
+        #endregion
+
+        #region Methods
+
+        /// <summary>
+        /// 初始化配置文件
+        /// </summary>
+        /// <returns></returns>
+        protected override RedisDbConfig initConfig()
+        {
+            var config = new RedisDbConfig()
+            {
+                Host = "127.0.0.1",
+                Port = 6379,
+                Password = "aaaa",
+                Db = 0
+            };
+            return this.saveConifg(config);
         }
 
         #endregion

@@ -34,6 +34,7 @@
       <HintPath>..\..\..\Bang-V4.2.1-9-13\Libraries\libs\ServiceStack.Redis.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
@@ -46,11 +47,15 @@
   <ItemGroup>
     <Compile Include="CacheHelper.cs" />
     <Compile Include="ClientHelper.cs" />
+    <Compile Include="Configuration\ConfigLoader.cs" />
+    <Compile Include="Configuration\PubConstant.cs" />
     <Compile Include="Configuration\RedisDbConfig.cs" />
+    <Compile Include="Configuration\Utils.cs" />
     <Compile Include="HttpHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Redis\IRedisManager.cs" />
     <Compile Include="Redis\RedisManager.cs" />
+    <Compile Include="SerializationHelper.cs" />
     <Compile Include="ValidateHelper.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

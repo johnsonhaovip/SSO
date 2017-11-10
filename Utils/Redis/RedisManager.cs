@@ -13,11 +13,11 @@ namespace Utils.Redis
     /// </summary>
     public class RedisManager: IRedisManager
     {
-        ///// <summary>
-        ///// Redis配置
-        ///// </summary>
-        //private readonly RedisDbConfig _rdsCfg;
-        //private readonly SiteConfig _siteCfg;
+        /// <summary>
+        /// Redis配置
+        /// </summary>
+        private readonly RedisDbConfig _rdsCfg;
+        private readonly SiteConfig _siteCfg;
 
         /// <summary>
         /// 连接客户端
