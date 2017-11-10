@@ -21,6 +21,11 @@ namespace Utils.Configuration
         /// </summary>
         public const string CONNECTION_SECTION_NAME = "DataContext";
 
+        /// <summary>
+        /// 网站配置文件节点名
+        /// </summary>
+        public const string SITE_CONFIG_PATH = "siteConfigPath";
+
         #endregion
 
         /// <summary>

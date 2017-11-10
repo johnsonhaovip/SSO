@@ -50,6 +50,7 @@
     <Compile Include="Configuration\ConfigLoader.cs" />
     <Compile Include="Configuration\PubConstant.cs" />
     <Compile Include="Configuration\RedisDbConfig.cs" />
+    <Compile Include="Configuration\SiteConfig.cs" />
     <Compile Include="Configuration\Utils.cs" />
     <Compile Include="HttpHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

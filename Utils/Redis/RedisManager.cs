@@ -17,6 +17,10 @@ namespace Utils.Redis
         /// Redis配置
         /// </summary>
         private readonly RedisDbConfig _rdsCfg;
+
+        /// <summary>
+        /// 站点设置
+        /// </summary>
         private readonly SiteConfig _siteCfg;
 
         /// <summary>
@@ -26,12 +30,11 @@ namespace Utils.Redis
 
         public RedisManager()
         {
-            //this._rdsCfg = RedisDbConfig.Instance;
-            //this._siteCfg = SiteConfig.Instance;
+            this._rdsCfg = RedisDbConfig.Instance;
+            this._siteCfg = SiteConfig.Instance;
 
-            //string redisHost = String.IsNullOrEmpty(this._siteCfg.IM.Host) ? this._rdsCfg.Host : this._siteCfg.IM.Host;
-            //_redisClient = new RedisClient(redisHost, this._rdsCfg.Port, this._rdsCfg.Password, this._rdsCfg.Db);
-            _redisClient = new RedisClient(RedisDbConfig.Host, RedisDbConfig.Port, RedisDbConfig.Password, 0);
+            string redisHost = String.IsNullOrEmpty(this._siteCfg.IM.Host) ? this._rdsCfg.Host : this._siteCfg.IM.Host;
+            _redisClient = new RedisClient(redisHost, this._rdsCfg.Port, this._rdsCfg.Password, this._rdsCfg.Db);
 
             _redisClient.ConnectTimeout = 1000;
         }
