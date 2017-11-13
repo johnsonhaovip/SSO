@@ -107,8 +107,14 @@ namespace sso.com.Controllers
             //更新缓存过期时间
             Utils.CacheHelper.Remove(token);
             Utils.CacheHelper.Insert(token, v, 1);
+
+            #region 测试redis
             this._redisClient.Add(v.ToString(), token, TimeSpan.FromMinutes(5));//将信息插入到redis中（TODO:只是测试，因为redis服务器并未有开启）
-            var vaule = this._redisClient.Get(v.ToString());
+            var vaule = this._redisClient.Get(v.ToString());//获取
+            this._redisClient.Remove(v.ToString());//删除
+            var vaules = this._redisClient.Get(v.ToString());//获取
+            #endregion
+
             //TODO:将用户相关的信息返回
             return v.ToString();
         }
