@@ -25,11 +25,22 @@ namespace Utils
             byte[] buffer = encoding.GetBytes(strPostdata);
             request.ContentLength = buffer.Length;
             request.GetRequestStream().Write(buffer, 0, buffer.Length);
-            HttpWebResponse response = (HttpWebResponse)request.GetResponse();
-            using (StreamReader reader = new StreamReader(response.GetResponseStream(), System.Text.Encoding.UTF8))
+            //HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+            //using (StreamReader reader = new StreamReader(response.GetResponseStream(), System.Text.Encoding.UTF8))
+            //{
+            //    return reader.ReadToEnd();
+            //}
+            HttpWebResponse res;
+            try
             {
-                return reader.ReadToEnd();
+                res = (HttpWebResponse)request.GetResponse();
             }
+            catch (WebException ex)
+            {
+                res = (HttpWebResponse)ex.Response;
+            }
+            StreamReader sr = new StreamReader(res.GetResponseStream(), Encoding.UTF8);
+            return sr.ReadToEnd();
         }
     }
 }
